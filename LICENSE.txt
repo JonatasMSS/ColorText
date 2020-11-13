@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2020 Jonatas Miguel
+Copyright (c) 2020 JonatasMSS
 
 All rights reserved.
 
